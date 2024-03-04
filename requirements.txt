@@ -2,3 +2,4 @@ beautifulsoup4
 requests
 chromadb
 llama-index
+llama-index-embeddings-huggingface
